@@ -10,6 +10,7 @@ Write a program to read the data for a product in stock (name, price, and quanti
 • Perform an exit from stock and display the product data again
 To solve this problem, you must create
 a CLASS as shown in the project below:
+
 ##
 
 
