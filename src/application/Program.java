@@ -33,7 +33,7 @@ public class Program {
         quantity = sc.nextInt();
         product.removeProducts(quantity);
 
-        System.out.printf();
+        System.out.println();
         System.out.println("Update Data: " + product);
         sc.close();
 
